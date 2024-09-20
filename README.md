@@ -1,0 +1,1 @@
+Ping Logging Script for troubleshooting purpose over period of time. The main purpose of this script is to log the output of each ping packet into a local text file in which you can monitor where if a network disconnection occurred over time.
